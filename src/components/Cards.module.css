@@ -1,0 +1,14 @@
+.container {
+    border: 1px black solid;
+    height: 100px;
+    width: 600px;
+    padding: 5px 10px 0 10px;
+    margin: 15px 0;
+    background: rgb(87, 0, 128)
+}
+.name {
+    color: gold;
+}
+.descr {
+    color:rgb(177, 113, 207)
+}
